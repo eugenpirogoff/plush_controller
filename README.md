@@ -20,4 +20,4 @@ Please follow the [instructions on the Adafruit learningsystem](http://learn.ada
 
 Firmware
 ========
-After compiling and uploading the firmware.ino with the Adafruit IDE to the controller, it behaves like any other HID on Windows and Mac OSX systems and emits the given strings on event to the operating system or emulator used. I strongly suggest using [OpenEmu](http://openemu.org/).
+After compiling and uploading the [firmware.ino](https://github.com/eugenpirogoff/plush_controller/blob/master/firmware.ino) with the Adafruit IDE to the controller, it behaves like any other HID on Windows and Mac OSX systems and emits the given strings on event to the operating system or emulator used. I strongly suggest using [OpenEmu](http://openemu.org/).
